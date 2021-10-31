@@ -1,1 +1,14 @@
-[]
+[
+  {
+  "name":"Google Pixel 3",
+  "prise":27700
+  },
+  {
+  "name":"Pixel Chromebook",
+  "prise":12000
+  },
+  {
+  "name":"ASUS 2",
+  "prise":14000
+  },
+]
